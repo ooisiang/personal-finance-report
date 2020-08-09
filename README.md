@@ -1,6 +1,15 @@
 # Personal Finance Report
 This Excel tool aims to provide user a way to track his/her annual expenses. With this tool user can input all expenses of the pre-defined categories, display summaries of all the expenses in monthly reports and based on the monthly reports, an annual report is created.
 
+## Table of Contents
+
+- [Getting Started](https://github.com/ooisiang/personal-finance-report#getting-started)
+- [Prerequisites](https://github.com/ooisiang/personal-finance-report#prerequisites)
+- [Instructions](https://github.com/ooisiang/personal-finance-report#instructions)
+    - [Update a monthly report](https://github.com/ooisiang/personal-finance-report#update-a-monthly-report)
+    - [Create a new monthly report](https://github.com/ooisiang/personal-finance-report#create-a-new-monthly-report)
+- [Authors](https://github.com/ooisiang/personal-finance-report#authors)
+
 ## Getting Started
 
 To get a copy of this project in the local project, please execute:
